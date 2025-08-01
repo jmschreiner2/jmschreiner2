@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Jacob Schreiner
 
+* Been working in the Pittsburgh Area doing C# Development for over 9 years.
+* Currently learning some more interesting languages (Go, Zig, Rust)
+* I like tinkering and building cool stuff
+* Built a discord bot. Once in javascript, then in rust. Now she lives in my homelab using [n8n](https://n8n.io/) with AI abilities.
+* Don't use social media much but you can find my LinkedIn [here](https://www.linkedin.com/in/jacob-schreiner-875437264/).
 <!--
 **jmschreiner2/jmschreiner2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
